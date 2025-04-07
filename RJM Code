@@ -92,7 +92,7 @@
 "py7":"1972",
 
 "pi8":"https://raw.githubusercontent.com/RenzAaron/Movie_Recommendations/main/Resources/image/The%20lord%20of%20the%20rings.jpg",
-"pt8":"The Lord of the Rings: The Fellowship of the Ring",
+"pt8":"The Lord of the Rings",
 "py8":"2001",
 
 "pi9":"https://github.com/RenzAaron/Movie_Recommendations/raw/main/Resources/image/The%20Matrix.jpg",
@@ -102,5 +102,47 @@
 "pi10":"https://github.com/RenzAaron/Movie_Recommendations/raw/main/Resources/image/The%20shawshank%20redemption.jpg",
 "pt10":"The Shawshank Redemption",
 "py10":"1994"
+
+NEW
+
+"ni1":"link",
+"nt1":"here",
+"ny1":"here",
+
+"ni2":"link",
+"nt2":"here",
+"ny2":"here",
+
+"ni3":"link",
+"nt3":"here",
+"ny3":"here",
+
+"ni4":"link",
+"nt4":"here",
+"ny4":"here",
+
+"ni5":"link",
+"nt5":"here",
+"ny5":"here",
+
+"ni6":"link",
+"nt6":"here",
+"ny6":"here",
+
+"ni7":"link",
+"nt7":"here",
+"ny7":"here",
+
+"ni8":"link",
+"nt8":"here",
+"ny8":"here",
+
+"ni9":"link",
+"nt9":"here",
+"ny9":"here",
+
+"ni10":"link",
+"nt10":"here",
+"ny10":"here"
 
 }
