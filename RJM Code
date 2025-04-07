@@ -1,13 +1,64 @@
+{
 #Random
 
-"ri1":"image link",
-"rt1":"title",
-"ry1":"year",
-"rh1":"hours",
-"rg1":"genres",
+"ri1":"https://github.com/RenzAaron/Movie_Recommendations/raw/main/Resources/image/Cloverfield.jpg",
+"rt1":"Cloverfield",
+"ry1":"2008",
+"rh1":"1h 24m",
+"rg1":"Action, Thriller, Science Fiction, Horror",
 
-"ri10":"image link",
-"rt10":"title",
-"ry10":"year",
-"rh10":"hours",
-"rg10":"genres",
+"ri2":"https://github.com/RenzAaron/Movie_Recommendations/raw/main/Resources/image/The%20shawshank%20redemption.jpg",
+"rt2":"The Shawshank redempion",
+"ry2":"1994",
+"rh2":"2h 22m",
+"rg2":"Drama, Crime",
+
+"ri3":"https://github.com/RenzAaron/Movie_Recommendations/raw/main/Resources/image/The%20Parenting.jpg",
+"rt3":"The Parenting",
+"ry3":"2025",
+"rh3":"1h 34m",
+"rg3":"Comedy, Horror",
+
+"ri4":"https://github.com/RenzAaron/Movie_Recommendations/raw/main/Resources/image/The%20First%20Slam%20Dunk.jpg",
+"rt4":"The first slam dunk",
+"ry4":"2022",
+"rh4":"2h 5m",
+"rg4":"Anime, Animation, Comedy, Drama, Sport",
+
+"ri5":"https://github.com/RenzAaron/Movie_Recommendations/raw/main/Resources/image/Plankton%20The%20movie.jpg",
+"rt5":"Plankton the movie",
+"ry5":"2025",
+"rh5":"1h 23m",
+"rg5":"Animation, Adventure, Comedy, Family, Fantasy, Musical",
+
+"ri6":"https://raw.githubusercontent.com/RenzAaron/Movie_Recommendations/main/Resources/image/Inception.jpg",
+"rt6":"Inception",
+"ry6":"2010",
+"rh6":"2h 28m",
+"rg6":"Action, Adventure, Thriller, Science Fiction, Mystery",
+
+"ri7":"https://github.com/RenzAaron/Movie_Recommendations/raw/main/Resources/image/In%20the%20heart%20of%20the%20sea.jpg",
+"rt7":"In the heart of the sea",
+"ry7":"2015",
+"rh7":"2h 2m",
+"rg7":"Action, Adventure, Thriller, Drama, History, Biography, Fantasy",
+
+"ri8":"https://raw.githubusercontent.com/RenzAaron/Movie_Recommendations/refs/heads/main/Resources/image/Hello%2CLove%2CAgain.avif",
+"rt8":"Hello,Love,Again",
+"ry8":"2024",
+"rh8":"2h 2m",
+"rg8":"Drama, Romance",
+
+"ri9":"https://github.com/RenzAaron/Movie_Recommendations/raw/main/Resources/image/Goodfellas.jpg",
+"rt9":"Goodfella",
+"ry9":"1990",
+"rh9":"2h 25m",
+"rg9":"Drama, Crime, Biography",
+
+"ri10":"https://github.com/RenzAaron/Movie_Recommendations/raw/main/Resources/image/Her%20blue%20sky.jpg",
+"rt10":"Her Blue Sky",
+"ry10":"2019",
+"rh10":"1h 48m",
+"rg10":"Animation, Drama, Fantasy, Romance, Family, Anime, Music"
+
+}
