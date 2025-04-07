@@ -105,44 +105,44 @@
 
 NEW
 
-"ni1":"link",
-"nt1":"here",
-"ny1":"here",
+"ni1":"https://raw.githubusercontent.com/RenzAaron/Movie_Recommendations/main/Resources/image/Back%20in%20action.png",
+"nt1":"Back in Action",
+"ny1":"2025",
 
-"ni2":"link",
-"nt2":"here",
-"ny2":"here",
+"ni2":"https://github.com/RenzAaron/Movie_Recommendations/raw/main/Resources/image/Bone%20Face.png",
+"nt2":"Bone Face",
+"ny2":"2025",
 
-"ni3":"link",
-"nt3":"here",
-"ny3":"here",
+"ni3":"https://raw.githubusercontent.com/RenzAaron/Movie_Recommendations/main/Resources/image/Don't%20die.jpg",
+"nt3":"Don't Die: The Man Who Wants to Live Forever",
+"ny3":"2025",
 
-"ni4":"link",
-"nt4":"here",
-"ny4":"here",
+"ni4":"https://raw.githubusercontent.com/RenzAaron/Movie_Recommendations/main/Resources/image/Game%20Changer.jpg",
+"nt4":"Game Changer",
+"ny4":"2025",
 
-"ni5":"link",
-"nt5":"here",
-"ny5":"here",
+"ni5":"https://raw.githubusercontent.com/RenzAaron/Movie_Recommendations/main/Resources/image/Plankton%20The%20movie.jpg",
+"nt5":"Plankton: The Movie",
+"ny5":"2025",
 
-"ni6":"link",
-"nt6":"here",
-"ny6":"here",
+"ni6":"https://raw.githubusercontent.com/RenzAaron/Movie_Recommendations/main/Resources/image/Sniper%20the%20last%20stand.jpg",
+"nt6":"Sniper: The Last Stand",
+"ny6":"2025",
 
-"ni7":"link",
-"nt7":"here",
-"ny7":"here",
+"ni7":"https://raw.githubusercontent.com/RenzAaron/Movie_Recommendations/main/Resources/image/The%20Gorge.jpg",
+"nt7":"The Gorge",
+"ny7":"2025",
 
-"ni8":"link",
-"nt8":"here",
-"ny8":"here",
+"ni8":"https://raw.githubusercontent.com/RenzAaron/Movie_Recommendations/main/Resources/image/The%20Parenting.jpg",
+"nt8":"The Parenting",
+"ny8":"2025",
 
-"ni9":"link",
-"nt9":"here",
-"ny9":"here",
+"ni9":"https://raw.githubusercontent.com/RenzAaron/Movie_Recommendations/main/Resources/image/Under%20the%20crystla%20sky.jpg",
+"nt9":"Under the Crystal Sky",
+"ny9":"2025",
 
-"ni10":"link",
-"nt10":"here",
-"ny10":"here"
+"ni10":"https://raw.githubusercontent.com/RenzAaron/Movie_Recommendations/main/Resources/image/Wolf%20Man.jpg",
+"nt10":"Wolf Man",
+"ny10":"2025"
 
 }
