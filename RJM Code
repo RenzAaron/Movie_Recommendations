@@ -59,6 +59,48 @@
 "rt10":"Her Blue Sky",
 "ry10":"2019",
 "rh10":"1h 48m",
-"rg10":"Animation, Drama, Fantasy, Romance, Family, Anime, Music"
+"rg10":"Animation, Drama, Fantasy, Romance, Family, Anime, Music",
+
+#POPULAR
+
+"pi1":"https://github.com/RenzAaron/Movie_Recommendations/raw/main/Resources/image/12%20angry%20men.jpg",
+"pt1":"12 angry men",
+"py1":"1957",
+
+"pi2":"https://github.com/RenzAaron/Movie_Recommendations/raw/main/Resources/image/Casablanca.jpg",
+"pt2":"Casablanca",
+"py2":"1983",
+
+"pi3":"https://github.com/RenzAaron/Movie_Recommendations/raw/main/Resources/image/Goodfellas.jpg",
+"pt3":"Goodfellas",
+"py3":"1990",
+
+"pi4":"https://github.com/RenzAaron/Movie_Recommendations/raw/main/Resources/image/Inception.jpg",
+"pt4":"Inception",
+"py4":"2010",
+
+"pi5":"https://github.com/RenzAaron/Movie_Recommendations/raw/main/Resources/image/One%20flew%20over%20the%20cuckoo's%20nest.jpg",
+"pt5":"One Flew Over the Cuckoo's Nest",
+"py5":"1975",
+
+"pi6":"https://raw.githubusercontent.com/RenzAaron/Movie_Recommendations/main/Resources/image/The%20Dark%20Knight.jpg",
+"pt6":"The Dark Knight",
+"py6":"2008",
+
+"pi7":"https://raw.githubusercontent.com/RenzAaron/Movie_Recommendations/main/Resources/image/The%20Godfather.jpg",
+"pt7":"The Godfather",
+"py7":"1972",
+
+"pi8":"https://raw.githubusercontent.com/RenzAaron/Movie_Recommendations/main/Resources/image/The%20lord%20of%20the%20rings.jpg",
+"pt8":"The Lord of the Rings: The Fellowship of the Ring",
+"py8":"2001",
+
+"pi9":"https://github.com/RenzAaron/Movie_Recommendations/raw/main/Resources/image/The%20Matrix.jpg",
+"pt9":"The Matrix",
+"py9":"1999",
+
+"pi10":"https://github.com/RenzAaron/Movie_Recommendations/raw/main/Resources/image/The%20shawshank%20redemption.jpg",
+"pt10":"The Shawshank Redemption",
+"py10":"1994"
 
 }
