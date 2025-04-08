@@ -143,6 +143,68 @@
 
 "ni10":"https://raw.githubusercontent.com/RenzAaron/Movie_Recommendations/main/Resources/image/Wolf%20Man.jpg",
 "nt10":"Wolf Man",
-"ny10":"2025"
+"ny10":"2025",
+
+#ACTION
+
+"ai1": "https://github.com/RenzAaron/Movie_Recommendations/raw/main/Resources/image/Baby%20John.jpg",
+"at1": "Baby John",
+"ay1": "2024",
+
+"ai2": "https://github.com/RenzAaron/Movie_Recommendations/raw/main/Resources/image/Back%20in%20action.png",
+"at2": "Back in Action",
+"ay2": "2025",
+
+"ai3": "https://github.com/RenzAaron/Movie_Recommendations/raw/main/Resources/image/Cloverfield.jpg",
+"at3": "Cloverfield",
+"ay3": "2008",
+
+"ai4": "https://github.com/RenzAaron/Movie_Recommendations/raw/main/Resources/image/Game%20Changer.jpg",
+"at4": "Game Changer",
+"ay4": "2025",
+
+"ai5": "https://github.com/RenzAaron/Movie_Recommendations/raw/main/Resources/image/In%20the%20heart%20of%20the%20sea.jpg",
+"at5": "In the Heart of the Sea",
+"ay5": "2015",
+
+"ai6": "https://github.com/RenzAaron/Movie_Recommendations/raw/main/Resources/image/Sniper%20the%20last%20stand.jpg",
+"at6": "Sniper The Last Stand",
+"ay6": "2025",
+
+"ai7": "https://github.com/RenzAaron/Movie_Recommendations/raw/main/Resources/image/Sonic%20the%20hedgehog.jpg",
+"at7": "Sonic the Hedgehog",
+"ay7": "2020",
+
+"ai8": "https://github.com/RenzAaron/Movie_Recommendations/raw/main/Resources/image/Sonic%20the%20hedgehog%202.jpg",
+"at8": "Sonic the Hedgehog 2",
+"ay8": "2022",
+
+"ai9": "https://github.com/RenzAaron/Movie_Recommendations/raw/main/Resources/image/Sonic%20the%20hedgehog%203.jpg",
+"at9": "Sonic the Hedgehog 3",
+"ay9": "2024",
+
+"ai10": "https://github.com/RenzAaron/Movie_Recommendations/raw/main/Resources/image/The%20Gorge.jpg",
+"at10": "The Gorge",
+"ay10": "2025",
+
+"ai11": "https://github.com/RenzAaron/Movie_Recommendations/raw/main/Resources/image/Under%20Paris.jpg",
+"at11": "Under Paris",
+"ay11": "2024",
+
+"ai12": "https://github.com/RenzAaron/Movie_Recommendations/raw/main/Resources/image/Inception.jpg",
+"at12": "Inception",
+"ay12": "2010",
+
+"ai13": "https://github.com/RenzAaron/Movie_Recommendations/raw/main/Resources/image/The%20Dark%20Knight.jpg",
+"at13": "The Dark Knight",
+"ay13": "2008",
+
+"ai14": "https://github.com/RenzAaron/Movie_Recommendations/raw/main/Resources/image/The%20Godfather.jpg",
+"at14": "The Godfather",
+"ay14": "1972",
+
+"ai15": "https://github.com/RenzAaron/Movie_Recommendations/raw/main/Resources/image/The%20Matrix.jpg",
+"at15": "The Matrix",
+"ay15": "1999"
 
 }
