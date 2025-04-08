@@ -243,6 +243,84 @@
 
 "si9":"https://github.com/RenzAaron/Movie_Recommendations/raw/main/Resources/image/The%20Matrix.jpg",
 "st9":"The Matrix",
-"sy9":"1999"
+"sy9":"1999",
+
+#DRAMA
+
+"di1":"https://github.com/RenzAaron/Movie_Recommendations/raw/main/Resources/image/Baby%20John.jpg",
+"dt1":"Baby John",
+"dy1":"2024",
+
+"di2":"https://github.com/RenzAaron/Movie_Recommendations/raw/main/Resources/image/Back%20in%20action.png",
+"dt2":"Back in Action",
+"dy2":"2025",
+
+"di3":"https://github.com/RenzAaron/Movie_Recommendations/raw/main/Resources/image/Death%20Note.jpg",
+"dt3":"Death Note",
+"dy3":"2017",
+
+"di4":"https://github.com/RenzAaron/Movie_Recommendations/raw/main/Resources/image/Don't%20die.jpg",
+"dt4":"Don't Die",
+"dy4":"2025",
+
+"di5":"https://github.com/RenzAaron/Movie_Recommendations/raw/main/Resources/image/Game%20Changer.jpg",
+"dt5":"Game Changer",
+"dy5":"2025",
+
+"di6":"https://github.com/RenzAaron/Movie_Recommendations/raw/main/Resources/image/Hello%2CLove%2CAgain.png",
+"dt6":"Hello, Love, Again",
+"dy6":"2024",
+
+"di7":"https://github.com/RenzAaron/Movie_Recommendations/raw/main/Resources/image/Her%20blue%20sky.jpg",
+"dt7":"Her Blue Sky",
+"dy7":"2019",
+
+"di8":"https://github.com/RenzAaron/Movie_Recommendations/raw/main/Resources/image/In%20the%20heart%20of%20the%20sea.jpg",
+"dt8":"In the Heart of the Sea",
+"dy8":"2015",
+
+"di9":"https://github.com/RenzAaron/Movie_Recommendations/raw/main/Resources/image/Maboroshi.jpg",
+"dt9":"maboroshi",
+"dy9":"2023",
+
+"di10":"https://github.com/RenzAaron/Movie_Recommendations/raw/main/Resources/image/The%20First%20Slam%20Dunk.jpg",
+"dt10":"The First Slam Dunk",
+"dy10":"2022",
+
+"di11":"https://github.com/RenzAaron/Movie_Recommendations/raw/main/Resources/image/The%20town.jpg",
+"dt11":"The Town",
+"dy11":"2010",
+
+"di12":"https://github.com/RenzAaron/Movie_Recommendations/raw/main/Resources/image/Under%20Paris.jpg",
+"dt12":"Under Paris",
+"dy12":"2024",
+
+"di13":"https://github.com/RenzAaron/Movie_Recommendations/raw/main/Resources/image/12%20angry%20men.jpg",
+"dt13":"12 Angry Men",
+"dy13":"1957",
+
+"di14":"https://github.com/RenzAaron/Movie_Recommendations/raw/main/Resources/image/Casablanca.jpg",
+"dt14":"Casablanca",
+"dy14":"1983",
+
+"di15":"https://github.com/RenzAaron/Movie_Recommendations/raw/main/Resources/image/Goodfellas.jpg",
+"dt15":"Goodfellas",
+"dy15":"1990",
+
+"di16":"https://github.com/RenzAaron/Movie_Recommendations/raw/main/Resources/image/One%20flew%20over%20the%20cuckoo's%20nest.jpg",
+"dt16":"One Flew Over the Cuckoo's Nest",
+"dy16":"1975",
+
+"di17":"https://github.com/RenzAaron/Movie_Recommendations/raw/main/Resources/image/The%20Dark%20Knight.jpg",
+"dt17":"The Dark Knight",
+"dy17":"2008",
+
+"di18":"https://github.com/RenzAaron/Movie_Recommendations/raw/main/Resources/image/The%20Godfather.jpg",
+"dt18":"The Godfather",
+"dy18":"1972",
+
+"di19":"https://github.com/RenzAaron/Movie_Recommendations/raw/main/Resources/image/The%20shawshank%20redemption.jpg",
+"dt19":"The Shawshank Redemption",
+"dy19":"1994"
 
 }
