@@ -205,6 +205,44 @@
 
 "ai15": "https://github.com/RenzAaron/Movie_Recommendations/raw/main/Resources/image/The%20Matrix.jpg",
 "at15": "The Matrix",
-"ay15": "1999"
+"ay15": "1999",
+
+#SCI-FI
+
+"si1":"https://github.com/RenzAaron/Movie_Recommendations/raw/main/Resources/image/Cloverfield.jpg",
+"st1":"Cloverfield",
+"sy1":"2008",
+
+"si2":"https://github.com/RenzAaron/Movie_Recommendations/raw/main/Resources/image/Don't%20die.jpg",
+"st2":"Don't Die",
+"sy2":"2025",
+
+"si3":"https://github.com/RenzAaron/Movie_Recommendations/raw/main/Resources/image/Sonic%20the%20hedgehog.jpg",
+"st3":"Sonic the Hedgehog",
+"sy3":"2020",
+
+"si4":"https://github.com/RenzAaron/Movie_Recommendations/raw/main/Resources/image/Sonic%20the%20hedgehog%202.jpg",
+"st4":"Sonic the Hedgehog 2",
+"sy4":"2022",
+
+"si5":"https://github.com/RenzAaron/Movie_Recommendations/raw/main/Resources/image/Sonic%20the%20hedgehog%203.jpg",
+"st5":"Sonic the Hedgehog 3",
+"sy5":"2024",
+
+"si6":"https://github.com/RenzAaron/Movie_Recommendations/raw/main/Resources/image/The%20Gorge.jpg",
+"st6":"The Gorge",
+"sy6":"2025",
+
+"si7":"https://github.com/RenzAaron/Movie_Recommendations/raw/main/Resources/image/Under%20the%20crystla%20sky.jpg",
+"st7":"Under the Crystal Sky",
+"sy7":"2025",
+
+"si8":"https://github.com/RenzAaron/Movie_Recommendations/raw/main/Resources/image/Inception.jpg",
+"st8":"Inception",
+"sy8":"2010",
+
+"si9":"https://github.com/RenzAaron/Movie_Recommendations/raw/main/Resources/image/The%20Matrix.jpg",
+"st9":"The Matrix",
+"sy9":"1999"
 
 }
