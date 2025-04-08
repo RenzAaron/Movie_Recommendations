@@ -429,6 +429,8 @@
 #PREVIEW
 
 "t1":"12 Angry Men",
+"i1":"https://github.com/RenzAaron/Movie_Recommendations/raw/main/Resources/image/12%20angry%20men.jpg",
+"b1":"https://github.com/RenzAaron/Movie_Recommendations/raw/main/Resources/image/12%20angry%20men.jpg",
 "y1":"1957",
 "h1":"1h 37m",
 "r1":"PG",
@@ -438,6 +440,8 @@
 "g1":"Drama, Crime",
 
 "t2":"Baby John",
+"https://github.com/RenzAaron/Movie_Recommendations/raw/main/Resources/image/Baby%20John.jpg,
+"https://github.com/RenzAaron/Movie_Recommendations/raw/main/Resources/image/Baby%20John.jpg,
 "y2":"2024",
 "h2":"2 hours 39 minutes",
 "r2":"SPG",
