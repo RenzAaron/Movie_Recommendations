@@ -322,4 +322,25 @@
 "di19":"https://github.com/RenzAaron/Movie_Recommendations/raw/main/Resources/image/The%20shawshank%20redemption.jpg",
 "dt19":"The Shawshank Redemption",
 "dy19":"1994"
+
+#ALL MOVIE
+
+"t1":"12 Angry Men",
+"y1":"1957",
+"h1":"1h 37m",
+"r1":"PG",
+"d1":"The defense and the prosecution have rested and the jury is filing into the jury room to decide if a young Spanish-American is guilty or innocent of murdering his father. What begins as an open and shut case soon becomes a mini-drama of each of the jurors' prejudices and preconceptions about the trial, the accused, and each other.",
+"dr1":"Sidney Lumet",
+"s1":"United Artist",
+"g1":"Drama, Crime",
+
+"t2":"Baby John",
+"y2":"2024",
+"h2":"2 hours 39 minutes",
+"r2":"SPG",
+"d2":"John's peaceful life with daughter Khushi is disrupted by a sex-trafficking gang. Revealing his past as DCP Satya, he seeks revenge for his family's murder, saving minor girls and punishing the criminals, before starting anew.",
+"dr2":"Kalees",
+"s2":"Cine1 Studios",
+"g2":"Action, Crime, Drama, Thriller"
+
 }
