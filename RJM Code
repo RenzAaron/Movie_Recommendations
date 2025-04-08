@@ -323,7 +323,110 @@
 "dt19":"The Shawshank Redemption",
 "dy19":"1994",
 
-#ALL MOVIE
+#HORROR
+
+"hi1":"https://github.com/RenzAaron/Movie_Recommendations/raw/main/Resources/image/Wolf%20Man.jpg",
+"ht1":"Wolf Man",
+"hy1":"2025",
+
+"hi2":"https://github.com/RenzAaron/Movie_Recommendations/raw/main/Resources/image/Bone%20Face.png",
+"ht2":"Bone Face",
+"hy2":"2025",
+
+"hi3":"https://github.com/RenzAaron/Movie_Recommendations/raw/main/Resources/image/Cara.jpg",
+"ht3":"Cara",
+"hy3":"2024",
+
+"hi4":"https://github.com/RenzAaron/Movie_Recommendations/raw/main/Resources/image/Cloverfield.jpg",
+"ht4":"Cloverfield",
+"hy4":"2008",
+
+"hi5":"https://github.com/RenzAaron/Movie_Recommendations/raw/main/Resources/image/Death%20Note.jpg",
+"ht5":"Death Note",
+"hy5":"2017",
+
+"hi6":"https://github.com/RenzAaron/Movie_Recommendations/raw/main/Resources/image/Gonjiam%20haunted%20asylum.jpg",
+"ht6":"Gonjiam: Haunted Asylum",
+"hy6":"2018",
+
+"hi7":"https://github.com/RenzAaron/Movie_Recommendations/raw/main/Resources/image/The%20Gorge.jpg",
+"ht7":"The Gorge",
+"hy7":"2025",
+
+"hi8":"https://github.com/RenzAaron/Movie_Recommendations/raw/main/Resources/image/The%20Parenting.jpg",
+"ht8":"The Parenting",
+"hy8":"2025",
+
+"hi9":"https://github.com/RenzAaron/Movie_Recommendations/raw/main/Resources/image/Under%20Paris.jpg",
+"ht9":"Under Paris",
+"hy9":"2024",
+
+"hi10":"https://github.com/RenzAaron/Movie_Recommendations/raw/main/Resources/image/The%20town.jpg",
+"ht10":"The Town",
+"hy10":"2010",
+
+
+#COMEDY
+
+"ci1": "https://github.com/RenzAaron/Movie_Recommendations/raw/main/Resources/image/Back%20in%20action.png",
+"ct1": "Back in Action",
+"cy1": "2025",
+
+"ci2": "https://github.com/RenzAaron/Movie_Recommendations/raw/main/Resources/image/Plankton%20The%20movie.jpg",
+"ct2": "Plankton: The Movie",
+"cy2": "2025",
+
+"ci3": "https://github.com/RenzAaron/Movie_Recommendations/raw/main/Resources/image/Sonic%20the%20hedgehog.jpg",
+"ct3": "Sonic The Hedgehog",
+"cy3": "2020",
+
+"ci4": "https://github.com/RenzAaron/Movie_Recommendations/raw/main/Resources/image/Sonic%20the%20hedgehog%202.jpg",
+"ct4": "Sonic The Hedgehog 2",
+"cy4": "2022",
+
+"ci5": "https://github.com/RenzAaron/Movie_Recommendations/raw/main/Resources/image/Sonic%20the%20hedgehog%203.jpg",
+"ct5": "Sonic The Hedgehog 3",
+"cy5": "2024",
+
+"ci6": "https://github.com/RenzAaron/Movie_Recommendations/raw/main/Resources/image/The%20First%20Slam%20Dunk.jpg",
+"ct6": "The First Slam Dunk",
+"cy6": "2022",
+
+"ci7": "https://github.com/RenzAaron/Movie_Recommendations/raw/main/Resources/image/The%20Parenting.jpg",
+"ct7": "The Parenting",
+"cy7": "2025",
+
+#ANIME
+
+"ani1":"link",
+"ant1":"here",
+"any1":"here",
+
+"ani2":"link",
+"ant2":"here",
+"any2":"here",
+
+"ani3":"link",
+"ant3":"here",
+"any3":"here",
+
+"ani4":"link",
+"ant4":"here",
+"any4":"here",
+
+"ani5":"link",
+"ant5":"here",
+"any5":"here",
+
+"ani6":"link",
+"ant6":"here",
+"any6":"here",
+
+"ani7":"link",
+"ant7":"here",
+"any7":"here",
+
+#PREVIEW
 
 "t1":"12 Angry Men",
 "y1":"1957",
