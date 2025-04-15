@@ -15,7 +15,6 @@ A **Movie Recommendation App** built using **Sketchware** with **Java** code. Th
 - View a list of recommended movies
 - Search movies by keyword
 - Clean and simple mobile UI
-- Works offline after initial data load
 - GitHub-hosted JSON as dynamic data source
 
 ---
