@@ -34,7 +34,7 @@ A **Movie Recommendation App** built using **Sketchware** with **Java** code. Th
 |------|-------------|
 | `RJM.apk` | The compiled Android app ready for installation |
 | `RJM.swb` | Sketchware project file – open/edit in Sketchware |
-| `data.json`     | JSON file hosted on GitHub used as the movie database |
+| `RJM Code`     | JSON file hosted on GitHub used as the movie database |
 
 ---
 
