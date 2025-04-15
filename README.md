@@ -33,8 +33,8 @@ A **Movie Recommendation App** built using **Sketchware** with **Java** code. Th
 ## 📁 Project Files
 | File | Description |
 |------|-------------|
-| `movie_app.apk` | The compiled Android app ready for installation |
-| `movie_app.swb` | Sketchware project file – open/edit in Sketchware |
+| `RJM.apk` | The compiled Android app ready for installation |
+| `RJM.swb` | Sketchware project file – open/edit in Sketchware |
 | `data.json`     | JSON file hosted on GitHub used as the movie database |
 
 ---
@@ -50,11 +50,11 @@ A **Movie Recommendation App** built using **Sketchware** with **Java** code. Th
 ## 📲 Installation & Setup
 
 ### 1️⃣ Install the APK
-- Download `movie_app.apk` from this repo
+- Download `RJM.apk` from this repo
 - Open it on your Android phone and install (enable Unknown Sources if needed)
 
 ### 2️⃣ Modify or View the App Code (Optional)
-- Download `movie_app.swb`
+- Download `RJM.swb`
 - Open it using **Sketchware** to view or customize the app
 - Or convert it to Android Studio for advanced editing
 
