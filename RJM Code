@@ -778,6 +778,39 @@
 "r32":"rating",
 "d32":"Doug MacRay is a longtime thief, who, smarter than the rest of his crew, is looking for his chance to exit the game. When a bank job leads to the group kidnapping an attractive branch manager, he takes on the role of monitoring her – but their burgeoning relationship threatens to unveil the identities of Doug and his crew to the FBI Agent who is on their case.",
 "dr32":"Ben Affleck",
-"s32":"Leg
-
+"s32":"Legendary Pictures",
+ "g32":"Drama, Crime, Thriller, Horror",
+ 
+ "t33":"Under Paris",
+ "i33":"https://github.com/RenzAaron/Movie_Recommendations/raw/main/Resources/image/Under%20Paris.jpg",
+ "b33":"https://github.com/RenzAaron/Movie_Recommendations/raw/main/Resources/image/Under%20Paris.jpg",
+ "y33":"2024",
+ "h33":"1h 44m",
+ "r33":"rating",
+ "d33":"Summer 2024. Paris is hosting the World Triathlon Championships on the Seine for the first time. Sophia, a brilliant scientist, learns from Mika, a young environmental activist, that a large shark is swimming deep in the river. To avoid a bloodbath at the heart of the city, they have no choice but to join forces with Adil, the Seine river police commander.",
+ "dr33":"Xavier Gens",
+ "s33":"Let Me Be",
+ "g33":"Action, Drama, Horror, Thriller, Sport, Mystery",
+ 
+ "t34":"Under the Crystal Sky",
+ "i34":"https://github.com/RenzAaron/Movie_Recommendations/raw/main/Resources/image/Under%20the%20crystla%20sky.jpg",
+ "b34":"https://github.com/RenzAaron/Movie_Recommendations/raw/main/Resources/image/Under%20the%20crystla%20sky.jpg",
+ "y34":"2025",
+ "h34":"1h 6m",
+ "r34":"rating",
+ "d34":"Under the Crystal Sky follows an Indigenous family grappling with the aftermath of witnessing a celestial phenomenon and a UFO crash near their home. Their lives unravel as fear mounts, mysterious events unfold, and a violent conflict with American military forces looms. Inspired by the historical 1561 celestial phenomenon over Nuremberg, the film re-imagines history through the lens of Indigenous culture and speculative sci-fi.",
+ "dr34":"Matt Hartley",
+ "s34":"ALBA",
+ "g34":"Adventure, History, Science Fiction",
+ 
+ "t35":"Wolf Man",
+ "i35":"https://github.com/RenzAaron/Movie_Recommendations/raw/main/Resources/image/Wolf%20Man.jpg",
+ "b35":"https://github.com/RenzAaron/Movie_Recommendations/raw/main/Resources/image/Wolf%20Man.jpg",
+ "y35":"2025",
+ "h35":"1h 42m",
+ "r35":"rating",
+ "d35":"With his marriage fraying, Blake persuades his wife Charlotte to take a break from the city and visit his remote childhood home in rural Oregon. As they arrive at the farmhouse in the dead of night, they're attacked by an unseen animal and barricade themselves inside the home as the creature prowls the perimeter. But as the night stretches on, Blake begins to behave strangely, transforming into something unrecognizable.",
+ "dr35":"Leigh Whannell",
+ "s35":"Universal Pictures",
+ "g35":"Horror, Thriller"
 }
