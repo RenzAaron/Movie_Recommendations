@@ -1,4 +1,4 @@
-# 🎬 Movie Recommendation App (Sketchware)
+# 🎬 Movie Recommendation App
 
 A **Movie Recommendation App** built using **Sketchware** with **Java** code. This mobile app helps users discover new movies using a **JSON file hosted on GitHub** as the app's data source.
 
